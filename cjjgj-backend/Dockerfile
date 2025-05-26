@@ -1,5 +1,5 @@
 # 使用 OpenJDK 8 JDK 作为基础镜像
-FROM openjdk:8u412-jdk
+FROM openjdk:8u342-jdk
 
 # 设置工作目录
 WORKDIR /app

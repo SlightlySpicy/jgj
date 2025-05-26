@@ -1,0 +1,73 @@
+nohup: ignoring input
+Application Version: 1.0.0
+Spring Boot Version: 2.5.9
+///////////////////////////////////////////////////////////////////////////
+________    __________________  _________                  .__
+\______ \  /  _____/\______   \/   _____/ ______________  _|__| ____  ____
+ |    |  \/   \  ___ |     ___/\_____  \_/ __ \_  __ \  \/ /  |/ ___\/ __ \
+ |    `   \    \_\  \|    |    /        \  ___/|  | \/\   /|  \  \__\  ___/
+/_______  /\______  /|____|   /_______  /\___  >__|    \_/ |__|\___  >___  >
+        \/        \/                  \/     \/                    \/    \/
+///////////////////////////////////////////////////////////////////////////
+18:03:01.987 [main] INFO  c.dgp.DgpApplication - [logStarting,55] - Starting DgpApplication using Java 1.8.0_345 on cjjgj with PID 15753 (/usr/local/cjjgj/dgp-admin.jar started by root in /usr/local/cjjgj)
+18:03:01.990 [main] DEBUG c.dgp.DgpApplication - [logStarting,56] - Running with Spring Boot v2.5.9, Spring v5.3.15
+18:03:01.990 [main] INFO  c.dgp.DgpApplication - [logStartupProfileInfo,676] - The following profiles are active: druid
+18:03:01.994 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+18:03:03.841 [main] WARN  o.m.s.m.ClassPathMapperScanner - [warn,44] - Skipping MapperFactoryBean with name 'jgj5gSbglDjxqMapper' and 'com.dgp.jgj5g.sbgl.mapper.Jgj5gSbglDjxqMapper' mapperInterface. Bean already defined with the same name!
+18:03:03.841 [main] WARN  o.m.s.m.ClassPathMapperScanner - [warn,44] - Skipping MapperFactoryBean with name 'jgj5gSbglPjxqMapper' and 'com.dgp.jgj5g.sbgl.mapper.Jgj5gSbglPjxqMapper' mapperInterface. Bean already defined with the same name!
+18:03:03.841 [main] WARN  o.m.s.m.ClassPathMapperScanner - [warn,44] - Skipping MapperFactoryBean with name 'jgj5gSbglSbxqMapper' and 'com.dgp.jgj5g.sbgl.mapper.Jgj5gSbglSbxqMapper' mapperInterface. Bean already defined with the same name!
+18:03:03.841 [main] WARN  o.m.s.m.ClassPathMapperScanner - [warn,44] - Skipping MapperFactoryBean with name 'jgj5gSbglWxxq2Mapper' and 'com.dgp.jgj5g.sbgl.mapper.Jgj5gSbglWxxq2Mapper' mapperInterface. Bean already defined with the same name!
+18:03:03.841 [main] WARN  o.m.s.m.ClassPathMapperScanner - [warn,44] - Skipping MapperFactoryBean with name 'jgj5gSbglWxxqMapper' and 'com.dgp.jgj5g.sbgl.mapper.Jgj5gSbglWxxqMapper' mapperInterface. Bean already defined with the same name!
+18:03:03.841 [main] WARN  o.m.s.m.ClassPathMapperScanner - [warn,44] - Skipping MapperFactoryBean with name 'jgj5gSbglXjgzMapper' and 'com.dgp.jgj5g.sbgl.mapper.Jgj5gSbglXjgzMapper' mapperInterface. Bean already defined with the same name!
+18:03:03.841 [main] WARN  o.m.s.m.ClassPathMapperScanner - [warn,44] - Skipping MapperFactoryBean with name 'jgj5gSbglXjxmMapper' and 'com.dgp.jgj5g.sbgl.mapper.Jgj5gSbglXjxmMapper' mapperInterface. Bean already defined with the same name!
+18:03:03.842 [main] WARN  o.m.s.m.ClassPathMapperScanner - [warn,44] - Skipping MapperFactoryBean with name 'jgj5gSbglXjxqMapper' and 'com.dgp.jgj5g.sbgl.mapper.Jgj5gSbglXjxqMapper' mapperInterface. Bean already defined with the same name!
+18:03:03.842 [main] WARN  o.m.s.m.ClassPathMapperScanner - [warn,44] - Skipping MapperFactoryBean with name 'jgj5gXjglDjxqMapper' and 'com.dgp.jgj5g.sbgl.mapper.Jgj5gXjglDjxqMapper' mapperInterface. Bean already defined with the same name!
+18:03:03.842 [main] WARN  o.m.s.m.ClassPathMapperScanner - [warn,44] - Skipping MapperFactoryBean with name 'jgj5gXjglXjgzMapper' and 'com.dgp.jgj5g.sbgl.mapper.Jgj5gXjglXjgzMapper' mapperInterface. Bean already defined with the same name!
+18:03:03.842 [main] WARN  o.m.s.m.ClassPathMapperScanner - [warn,44] - Skipping MapperFactoryBean with name 'jgj5gXjglXjxmMapper' and 'com.dgp.jgj5g.sbgl.mapper.Jgj5gXjglXjxmMapper' mapperInterface. Bean already defined with the same name!
+18:03:03.842 [main] WARN  o.m.s.m.ClassPathMapperScanner - [warn,44] - No MyBatis mapper was found in '[com.dgp.jgj5g.sbgl.mapper]' package. Please check your configuration.
+18:03:04.911 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8086"]
+18:03:04.911 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+18:03:04.912 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+18:03:04.963 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+18:03:05.593 [main] DEBUG c.d.f.s.f.JwtAuthenticationTokenFilter - [init,242] - Filter 'jwtAuthenticationTokenFilter' configured for use
+18:03:07.716 [main] WARN  c.b.m.c.i.AbstractMethod - [addMappedStatement,323] - [com.dgp.jgj5g.sbgl.mapper.Jgj5gSbglWxxqMapper.insert] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Insert]
+18:03:07.720 [main] WARN  c.b.m.c.i.AbstractMethod - [addMappedStatement,323] - [com.dgp.jgj5g.sbgl.mapper.Jgj5gSbglWxxqMapper.deleteById] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.DeleteById]
+18:03:07.723 [main] WARN  c.b.m.c.i.AbstractMethod - [addMappedStatement,323] - [com.dgp.jgj5g.sbgl.mapper.Jgj5gSbglWxxqMapper.update] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Update]
+18:03:07.743 [main] WARN  c.b.m.c.i.AbstractMethod - [addMappedStatement,323] - [com.dgp.jgj5g.sbgl.mapper.Jgj5gSbglXjgzMapper.insert] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Insert]
+18:03:07.747 [main] WARN  c.b.m.c.i.AbstractMethod - [addMappedStatement,323] - [com.dgp.jgj5g.sbgl.mapper.Jgj5gSbglXjgzMapper.deleteById] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.DeleteById]
+18:03:07.750 [main] WARN  c.b.m.c.i.AbstractMethod - [addMappedStatement,323] - [com.dgp.jgj5g.sbgl.mapper.Jgj5gSbglXjgzMapper.update] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Update]
+ _ _   |_  _ _|_. ___ _ |    _ 
+| | |\/|_)(_| | |_\  |_)||_|_\ 
+     /               |         
+                        3.3.2 
+18:03:09.119 [main] INFO  c.a.d.p.DruidDataSource - [init,998] - {dataSource-1} inited
+18:03:09.133 [main] DEBUG c.d.s.m.S.selectConfigList - [debug,137] - ==>  Preparing: select config_id, config_name, config_key, config_value, config_type, createusername, createtime, updateusername, updatetime, remark from sys_config c order by createtime desc
+18:03:09.325 [main] DEBUG c.d.s.m.S.selectConfigList - [debug,137] - ==> Parameters: 
+18:03:09.353 [main] DEBUG c.d.s.m.S.selectConfigList - [debug,137] - <==      Total: 12
+18:03:11.639 [main] DEBUG c.d.s.m.S.selectDictDataList - [debug,137] - ==>  Preparing: select dict_code, dict_sort, dict_label, dict_value, dict_type, css_class, list_class, is_default, status, createusername, createtime, remark,unit_code from sys_dict_data sys_dict_data WHERE status = ? ORDER BY dict_sort,dict_code ASC
+18:03:11.647 [main] DEBUG c.d.s.m.S.selectDictDataList - [debug,137] - ==> Parameters: 0(String)
+18:03:11.679 [main] DEBUG c.d.s.m.S.selectDictDataList - [debug,137] - <==      Total: 302
+18:03:12.353 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+18:03:12.372 [main] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+18:03:12.373 [main] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+18:03:12.380 [main] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DgpScheduler' with instanceId 'cjjgj1693648992355'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+18:03:12.380 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'DgpScheduler' initialized from an externally provided properties instance.
+18:03:12.380 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+18:03:12.382 [main] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@25f723b0
+18:03:12.436 [main] DEBUG c.d.q.m.S.selectJobAll - [debug,137] - ==>  Preparing: select job_id, job_name, job_group, invoke_target, cron_expression, misfire_policy, concurrent, status, createusername, createtime, remark from sys_job
+18:03:12.437 [main] DEBUG c.d.q.m.S.selectJobAll - [debug,137] - ==> Parameters: 
+18:03:12.438 [main] DEBUG c.d.q.m.S.selectJobAll - [debug,137] - <==      Total: 1
+18:03:14.200 [main] WARN  o.s.b.a.f.FreeMarkerAutoConfiguration - [checkTemplateLocationExists,65] - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+18:03:14.504 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8086"]
+18:03:15.101 [main] WARN  s.d.s.r.o.OperationImplicitParameterReader - [modelSpecification,170] - Unable to interpret the implicit parameter configuration with dataType: , dataTypeClass: class java.lang.Void
+18:03:15.103 [main] WARN  s.d.s.r.o.OperationImplicitParameterReader - [modelSpecification,170] - Unable to interpret the implicit parameter configuration with dataType: , dataTypeClass: class java.lang.Void
+18:03:15.154 [main] INFO  c.dgp.DgpApplication - [logStarted,61] - Started DgpApplication in 13.627 seconds (JVM running for 14.253)
+数字引力低代码平台启动！
+18:03:16.159 [Quartz Scheduler [DgpScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler DgpScheduler_$_cjjgj1693648992355 started.
